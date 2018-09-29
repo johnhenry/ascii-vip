@@ -12,6 +12,7 @@
   "dependencies": {
     "ascii-pixels": "^1.1.0",
     "charm": "^1.0.1",
+    "debug": "4.0.1",
     "fluent-ffmpeg": "^2.1.0",
     "hls-parser": "0.2.1",
     "minimist": "^1.2.0",
