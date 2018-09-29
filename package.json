@@ -1,6 +1,6 @@
 {
   "name": "vip-ascii",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "bin": "index.js",
   "main": "lib/ascii-video.js",
